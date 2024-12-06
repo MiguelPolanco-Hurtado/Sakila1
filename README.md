@@ -60,3 +60,7 @@ Tecnologías Usadas
 •	JDBC: Para la conexión con la base de datos.
 •	MySQL: Base de datos subyacente.
 •	Javadoc: Para la generación de documentación de la API
+
+Diagrama UML:
+
+doc/Diagrama UML.png
